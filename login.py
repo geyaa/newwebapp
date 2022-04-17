@@ -51,6 +51,9 @@ def index():
 def test():
     return render_template("test.html")
 
+def getApp():
+    return login
+
 @app.route("/create_login", methods=['GET','POST'])
 def create_login():
     #connection = get_db_connection()
