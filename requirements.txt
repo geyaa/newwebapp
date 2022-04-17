@@ -1,0 +1,9 @@
+Flask==2.0.3
+catalogue==2.0.7
+Flask==2.0.3
+pipenv==2022.4.8
+pipreqs==0.4.11
+psycopg2-binary==2.9.3
+sqlparse==0.4.2
+virtualenv==20.14.1
+gunicorn==20.1.0
